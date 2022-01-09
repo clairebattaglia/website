@@ -1,7 +1,7 @@
 ---
 title: "Claire Battaglia"
-subtitle: "data analyst for food system change"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+subtitle: "data analysis for food system change"
+description: "I'm a data analyst focused on food system change. This website is where I share projects I'm working on as I untangle the complexities of our food system and how to create change."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg

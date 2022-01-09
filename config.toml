@@ -76,15 +76,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://github.com/clairebattaglia"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/clairebtag"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -120,7 +116,7 @@ enableEmoji = true
     weight = 1
   [[menu.footer]]
     name = "Contact"
-    title = "Contact form"
+    title = "Contact Form"
     url = "/contact/"
     weight = 2
 
