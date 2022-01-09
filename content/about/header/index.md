@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a data analyst focused on food system change. This website is where I share projects I'm working on as I untangle the complexities of our food system and how to create change.
+I'm a data analyst focused on food system change. This is where I share what I'm working on as I untangle the complexities of our food system and how to create change.

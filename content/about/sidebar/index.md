@@ -5,14 +5,14 @@ role: "data analysis for food system change"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
-audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+audio_link_label: "how to say my name"
+link_list_label: "interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: FOOD POLICY
-  url: 
-- name: DATA ANALYSIS
+- name: data analysis
   url: 
 - name: R
+  url: 
+- name: food policy
   url: 
 ---
 

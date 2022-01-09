@@ -1,7 +1,7 @@
 ---
 title: "Claire Battaglia"
 subtitle: "data analysis for food system change"
-description: "I'm a data analyst focused on food system change. This website is where I share projects I'm working on as I untangle the complexities of our food system and how to create change."
+description: ""
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
