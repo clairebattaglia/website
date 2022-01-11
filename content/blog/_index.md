@@ -12,9 +12,8 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Welcome
+  title: Welcome to the blog.
   description: |
-    Welcome to my blog. As a data analyst focused on food system change, this is where I share what I'm learning about how data can help us understand and shape our food system.
     
   author: "Claire Battaglia"
   text_link_label: Subscribe via RSS
