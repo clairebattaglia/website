@@ -10,10 +10,10 @@ link_list_label: "interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: data analysis
   url: 
-- name: R
-  url: 
+- name: the world of R
+  url: https://www.r-project.org/about.html
 - name: food policy
-  url: 
+  url: https://www.foodsystemprimer.org/food-policy/
 ---
 
 ** index doesn't contain a body, just front matter above.
