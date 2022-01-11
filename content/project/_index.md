@@ -1,6 +1,6 @@
 ---
 title: Project Portfolio
-description: "I'm always looking for projects that inspire me. Take a look at some that I've worked on recently."
+description: "Take a look at some of the projects I've worked on recently."
 author: "Claire Battaglia"
 show_post_thumbnail: true
 show_author_byline: true
