@@ -15,7 +15,7 @@ sidebar:
     Projects can be anything!
     Check out the _index.md file in the /project folder 
     to edit this content.
-  author: "The R Markdown Team @RStudio"
+  author: "Claire Battaglia"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
