@@ -1,6 +1,6 @@
 ---
 title: Project Portfolio
-description: "Take a look at some of the projects I've worked on recently."
+description: "Coming soon!"
 author: "Claire Battaglia"
 show_post_thumbnail: true
 show_author_byline: true
