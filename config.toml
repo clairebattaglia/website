@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Claire Battaglia"
   orgLocal = "Missoula, MT"
-  description = "Data analysis for food system change."
+  description = "Data analysis for food system change"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project"]
