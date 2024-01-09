@@ -8,12 +8,12 @@ show_audio_link: true
 audio_link_label: "how to say my name"
 link_list_label: "interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: data analysis
+- name: R
   url: 
-- name: the world of R
-  url: https://www.r-project.org/about.html
-- name: food policy
-  url: https://www.foodsystemprimer.org/food-policy/
+- name: Python
+  url: 
+- name: SQL
+
 ---
 
 ** index doesn't contain a body, just front matter above.

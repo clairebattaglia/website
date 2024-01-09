@@ -1,6 +1,6 @@
 ---
 title: "Claire Battaglia"
-subtitle: "data analysis for food system change"
+subtitle: "data analysis & visualization"
 description: ""
 date: 2019-02-18T12:27:33-06:00
 images:
