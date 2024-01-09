@@ -7,6 +7,6 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I'm a data analyst focused on food system change. This is where I share what I'm working on as I untangle the complexities of our food system and how we can move towards one that is more healthful, equitable, and sustainable.
+I'm a data analyst based in Missoula, Montana. This is where I share what I'm learning and projects I'm working on.
 
 When I'm not working on a project, I can be found hiking, trail running, or playing on the river with my husband and our very enthusiastic German Wirehaired Pointer.
