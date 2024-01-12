@@ -1,19 +1,19 @@
 ---
-title: Blog
+title: Welcome to my blog.
 description: |
-  My blog.
+  
 author: "Claire Battaglia"
 show_post_thumbnail: false
 show_author_byline: true
 show_post_date: true
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Welcome to the blog.
+  title: Welcome to my blog.
   description: |
-    My thoughts on various things, from new R packages I'm learning to work with to how data analysis can (and should) inform public policy to recommended resources for further learning.
+    
   author: "Claire Battaglia"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml

@@ -1,7 +1,7 @@
 ---
 title: Contact
 name: Contact Form
-description: "I am always interested in thoughts on my work, as well as new opportunities to learn and collaborate. I'd love to hear from you."
+description: "I'm always interested in thoughts on my work, as well as new opportunities to learn and collaborate. I'd love to hear from you."
 date: 2019-02-25T13:38:41-06:00
 draft: false
 url: contact
