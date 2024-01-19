@@ -1,7 +1,7 @@
 ---
-title: Mapping a Food System
+title: Books I Recommend
 description: |
-  
+  Here you'll find books that have shaped my thinking about statistics and provided valuable technical training.
 author: Claire Battaglia
 show_post_thumbnail: false
 show_author_byline: true
@@ -11,14 +11,10 @@ layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Spoonful of Hugo
+  title: Books I Recommend
   author: Claire Battaglia
   description: |
-    A forking fun new feature for series.
-    Even this sidebar offers a ton of customizations!
-    
-    Check out the _index.md file in the /blog/spoonful-series
-    folder to edit this content.
+    Here you'll find books that have shaped my thinking about statistics and provided valuable technical training.
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
@@ -26,7 +22,7 @@ sidebar:
 # set up common front matter for all individual pages in series
 cascade:
   layout: single-series       # for a series, do not change
-  series: Mapping a Food System  # name your series
+  series: Books I Recommend  # name your series
   author: Claire Battaglia
   show_author_byline: true
   show_post_date: true
@@ -37,10 +33,9 @@ cascade:
     text_series_label: "In this series" 
     text_contents_label: "On this page" 
   tags:
-  - leaflet
-  - food system
+  - 
   categories:
-  - R
+  - Recommended Resources
 ---
 
 ** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**
