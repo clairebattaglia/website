@@ -1,6 +1,6 @@
 ---
 title: Project Portfolio
-description: "Coming soon!"
+description: ""
 author: "Claire Battaglia"
 show_post_thumbnail: true
 show_author_byline: true
