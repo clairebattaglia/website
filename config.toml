@@ -104,7 +104,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Projects"
     url = "/project/"
     weight = 3
     

@@ -1,5 +1,5 @@
 ---
-title: Project Portfolio
+title: Projects
 description: ""
 author: "Claire Battaglia"
 show_post_thumbnail: true
