@@ -4,7 +4,7 @@ description: |
   
 author: "Claire Battaglia"
 show_post_thumbnail: false
-show_author_byline: false
+show_author_byline: true
 show_post_date: true
 # for listing page layout
 layout: list # list, list-sidebar, list-grid
