@@ -1,7 +1,7 @@
 ---
 title: "How to Lie With Statistics"
 weight: 1
-subtitle: ""
+subtitle: "by Darrell Huff"
 excerpt: "By understanding how the non-statistical audience is likely to misinterpret statistical concepts, statisticians can learn to communicate more effectively."
 date: 2022-01-01
 draft: false
